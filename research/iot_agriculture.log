@@ -1,0 +1,4 @@
+2025-05-03 23:27:11,619 - ERROR - Connection failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
+2025-05-03 23:27:16,779 - ERROR - Connection failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
+2025-05-03 23:27:21,911 - ERROR - Connection failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
+2025-05-03 23:27:27,088 - ERROR - Connection failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
